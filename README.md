@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello, I'm Jhagas Hana Winaya 👋
 
-<!--
-**jhagas/jhagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
+![Bash](https://img.shields.io/badge/Bash-Intermediate-black)
+![HTML](https://img.shields.io/badge/HTML-Expert-orange)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
 
-Here are some ideas to get you started:
+Undergraduate student in Physics at [Institut Teknologi Sepuluh Nopember](https://its.ac.id). I like to processing my research data with python. Linux enthusiast and had passion in Acoustic Physics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛰 Undergraduate Bachelor's degree in **Physics** at ITS
+- 🌱 I’m currently learning **MATLAB**
+- ⚙️ Mastering: `.py`, `.html`,`.css`, `.sh`
+
+### 📬 Get in Touch
+
+- GitHub: [github.com/jhagas][github]
+- LinkedIn: coming soon
+- Blog: [jhagas.github.io/blog][site]
+- E-mail: 5001201017@mahasiswa.integra.its.ac.id
+
+![Federico Dondi's github stats](https://github-readme-stats.vercel.app/api?username=jhagas&show_icons=true&hide_border=true)
+
+[github]: https://github.com/jhagas
+[site]: https://jhagas.github.io/blog
