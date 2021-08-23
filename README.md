@@ -14,7 +14,7 @@ Undergraduate student in Physics at [Institut Teknologi Sepuluh Nopember](https:
 ### 📬 Get in Touch
 
 - GitHub: [github.com/jhagas][github]
-- LinkedIn: coming soon
+- LinkedIn: www.linkedin.com/in/jhagas/
 - Blog: [jhagas.github.io/blog][site]
 - E-mail: 5001201017@mahasiswa.integra.its.ac.id
 
