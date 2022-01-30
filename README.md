@@ -1,15 +1,15 @@
 # Hello, I'm Jhagas Hana Winaya 👋
 
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
-![Bash](https://img.shields.io/badge/Bash-Intermediate-black)
-![HTML](https://img.shields.io/badge/HTML-Intermediate-orange)
+![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
+![JS](https://img.shields.io/badge/Javascript-Intermediate-orange)
 
-Undergraduate student in Physics at [Institut Teknologi Sepuluh Nopember](https://its.ac.id). I like to processing my research data with python. Linux enthusiast and had passion in Acoustic Physics.
+Undergraduate student in Physics at [Institut Teknologi Sepuluh Nopember](https://its.ac.id). I like to processing my research data with python. Linux enthusiast and had passion in Electronics/Instrumentation Physics.
 
 - 🛰 Undergraduate Bachelor's degree in **Physics** at ITS
-- 🌱 I’m currently learning **MATLAB**
-- ⚙️ Mastering: `.py`, `.sh`
+- 🌱 I’m currently learning **Tensorflow**
+- ⚙️ Mastering: `.py`, `.sh`, `.js`
 
 ### 📬 Get in Touch
 
